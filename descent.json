@@ -1,6 +1,6 @@
 {
   "prompt": "A scientific illustration of gradient descent: a smooth hill with a small ball on top, rolling down a path toward a minimum point at the bottom, with several arrows showing the direction of motion. The image should look like a 17th–18th century scientific engraving, with thin, precise black lines, minimal shading, no shadows, no photographic look, no modern colors, no cartoon style. The background is plain white, with small hand‑drawn style labels such as ‘start’, ‘minimum’, and ‘gradient descent’. The overall style is a detailed copperplate‑style scientific diagram, not a modern illustration.",
-  "model": "Gemini Image (Imagen‑based generation)",
+  "model": "Gemini 3",
   "concept": "gradient descent",
   "tradition_name": "Scientific engraving from the Age of Exploration",
   "tradition_period": "16th–18th century",
